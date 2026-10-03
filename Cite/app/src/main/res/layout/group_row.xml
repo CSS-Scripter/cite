@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="172dp"
+    android:layout_height="102dp">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/groupCardView"
+        android:layout_width="156dp"
+        android:layout_height="86dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        app:cardCornerRadius="12dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/groupTitle"
+            android:layout_width="89dp"
+            android:layout_height="86dp"
+            android:layout_marginStart="16dp"
+            android:gravity="start|center_vertical"
+            android:text="@string/groups_element_title"
+            android:textAlignment="textStart" />
+
+        <ImageButton
+            android:id="@+id/favoriteGroup"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_gravity="center_vertical|end"
+            android:background="#00FFFFFF"
+            android:contentDescription="@string/group_row_element_favorite_content_description"
+            app:srcCompat="@android:drawable/btn_star" />
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

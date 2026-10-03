@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169092246129",
+    "project_id": "inductive-seer-171415",
+    "storage_bucket": "inductive-seer-171415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169092246129:android:df61da761d7b266921c9d0",
+        "android_client_info": {
+          "package_name": "co.dontlookaway.cite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169092246129-evdqr2442egcu22nosn2meoj2m3d5b0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_spdAKhOlhjLDhPDDwAsUHvEqNdaFf6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169092246129-evdqr2442egcu22nosn2meoj2m3d5b0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

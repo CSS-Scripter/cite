@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    <item-->
+<!--        android:id="@+id/copy_invite_code"-->
+<!--        android:title="@string/group_menu_element_copy_invite_code" />-->
+<!--    <item-->
+<!--        android:id="@+id/leave_group"-->
+<!--        android:title="@string/group_menu_element_leave_group" />-->
+</menu>

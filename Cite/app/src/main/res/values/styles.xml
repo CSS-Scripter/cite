@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="button">
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="Widget.AppCompat.EditText.Valid" parent="@android:style/Widget.EditText">
+        <item name="android:textColor">@color/blue_900</item>
+        <item name="android:backgroundTint">@color/blue_900</item>
+    </style>
+    <style name="Widget.AppCompat.EditText.InvalidInput" parent="@android:style/Widget.EditText">
+        <item name="android:textColor">@color/red</item>
+        <item name="android:backgroundTint">@color/red</item>
+    </style>
+    <style name="Widget.AppCompat.TextView.Valid" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">@color/blue_900</item>
+    </style>
+    <style name="Widget.AppCompat.TextView.Invalid" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">@color/red</item>
+    </style>
+</resources>

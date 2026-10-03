@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Cite</string>
+    <string name="title_activity_group_view">GroupViewActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <!-- Home page -->
+    <string name="main_element_title">CITE</string>
+    <string name="main_element_subtitle">Cite your friends on funny shit they say!</string>
+    <string name="main_element_description">Ever heard your friend say that he is cracked at fortnite ‘myguy’ *insert moan*, and wondered if you could save it somewhere? Us neither, but we made this platform anyway!</string>
+    <string name="main_element_login_or_register">Login or register below!</string>
+    <string name="main_element_login">Login</string>
+    <string name="main_element_register">Register</string>
+    <string name="main_element_logout"><u>Logout</u></string>
+
+    <string name="main_image_description">UndrawMessages</string>
+
+    <!-- Login page -->
+    <string name="login_element_title">Login</string>
+    <string name="login_element_email_label">Email</string>
+    <string name="login_element_email_placeholder">Email</string>
+    <string name="login_element_password_label">Password</string>
+    <string name="login_element_password_placeholder">Password</string>
+    <string name="login_element_login_button">Login</string>
+    <string name="login_element_cancel_button">Cancel</string>
+
+    <string name="login_toast_invalid_inputs">One or more of the fields contain an invalid value</string>
+
+    <!-- Login page -->
+    <string name="register_element_title">Register</string>
+    <string name="register_element_email_label">Email</string>
+    <string name="register_element_email_placeholder">Email</string>
+    <string name="register_element_username_label">Username</string>
+    <string name="register_element_username_placeholder">Username</string>
+    <string name="register_element_password_label">Password</string>
+    <string name="register_element_password_placeholder">Password</string>
+    <string name="register_element_login_button">Register</string>
+    <string name="register_element_cancel_button">Cancel</string>
+
+    <string name="register_toast_invalid_inputs">One or more of the fields contain an invalid value</string>
+
+
+    <!-- Groups page -->
+    <string name="groups_element_title">Groups</string>
+    <string name="groups_element_new_group">Create</string>
+    <string name="groups_element_fab_description">Creates a new group</string>
+
+    <!-- Group Row -->
+    <string name="group_row_element_favorite_content_description">Favorite group</string>
+
+    <!-- New Group page -->
+    <string name="new_group_element_name_label">Group name</string>
+    <string name="new_group_element_name_placeholder">Group name</string>
+    <string name="new_group_element_create_button">Create</string>
+    <string name="new_group_element_cancel_button">Cancel</string>
+
+    <!-- Join Group page -->
+    <string name="join_group_element_name_label">Group code</string>
+    <string name="join_group_element_name_placeholder">Group code</string>
+    <string name="join_group_element_create_button">Join</string>
+    <string name="join_group_element_cancel_button">Cancel</string>
+
+    <string name="join_group_element_accept_content_description">Accept join request</string>
+    <string name="join_group_element_deny_content_description">Deny join request</string>
+
+    <!-- Quotes page -->
+    <string name="quotes_element_group_name_placeholder">GroupName</string>
+    <string name="quotes_element_options_content_description">Show group options</string>
+    <string name="quotes_toast_failed_to_load_message">Failed to retrieve quotes</string>
+
+    <!-- Group Menu -->
+    <string name="group_menu_element_leave_group">Leave group</string>
+    <string name="group_menu_element_refresh">Refresh group</string>
+    <string name="group_menu_element_copy_invite_code">Copy invite code</string>
+    <string name="group_menu_element_view_requests">View join requests</string>
+
+    <!-- Quote Row -->
+    <string name="quote_row_element_like_content_description">Like this quote</string>
+    <string name="quote_row_element_dislike_content_description">Dislike this quote</string>
+    <string name="quote_row_element_likes_placeholder">Likes</string>
+    <string name="quote_row_element_quote_placeholder">Quote</string>
+    <string name="quote_row_element_quotee_placeholder">Quotee</string>
+
+    <!-- Create Quote page -->
+    <string name="create_quote_element_title">Create a Quote</string>
+    <string name="create_quote_element_quote_label">Quote</string>
+    <string name="create_quote_element_quote_placeholder">I said this</string>
+    <string name="create_quote_element_quotee_label">Quotee</string>
+    <string name="create_quote_element_quotee_placeholder">Someone</string>
+    <string name="create_quote_element_create">Create</string>
+    <string name="create_quote_element_cancel">Cancel</string>
+
+    <!-- Edit Quote page -->
+    <string name="edit_quote_quote_placeholder">quote</string>
+    <string name="edit_quote_quotee_placeholder">quotee</string>
+
+    <!-- Error view -->
+    <string name="error_row_placeholder">Error</string>
+
+    <!-- Keys section -->
+    <string name="intent_group_key">GROUP</string>
+
+</resources>

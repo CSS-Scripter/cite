@@ -39,7 +39,7 @@
     "dotenv": "^9.0.2",
     "express": "^4.17.1",
     "express-async-errors": "^3.1.1",
-    "express-validator": "^6.11.1",
+    "express-validator": "^7.3.2",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.12.8",
     "ts-node-dev": "^1.1.6",
